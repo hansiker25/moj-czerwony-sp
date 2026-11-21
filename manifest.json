@@ -9,4 +9,15 @@
     "schemes": "color.ini"
   }
 ]
+[
+  {
+    "name": "Moj Czerwony Motyw",
+    "description": "Custom background and red theme",
+    "preview": "assets/default_bg.jpg",
+    "backgroundUrl": "https://githubusercontent.com",
+    "readme": "README.md",
+    "usercss": "user.css",
+    "schemes": "color.ini"
+  }
+]
 
