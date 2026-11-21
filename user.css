@@ -1,0 +1,9 @@
+﻿:root {
+  --background-image: url("https://githubusercontent.com");
+}
+body, .Root__top-container {
+  background-image: var(--background-image) !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
