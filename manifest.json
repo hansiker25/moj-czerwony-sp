@@ -3,8 +3,10 @@
     "name": "Moj Czerwony Motyw",
     "description": "Custom background and red theme",
     "preview": "assets/default_bg.jpg",
+    "background": "assets/default_bg.jpg",
     "readme": "README.md",
     "usercss": "user.css",
     "schemes": "color.ini"
   }
 ]
+
